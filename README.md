@@ -61,7 +61,7 @@ python main.py --dataset diginetica --hop 2 --omega 0.2
 # Tmall
 python main.py --dataset Tmall --hop 2 --omega 0.2
 # Nowplaying
-python main.py --dataset diginetica --hop 1 --omega 0.6
+python main.py --dataset Nowplaying --hop 1 --omega 0.6
 
 usage: main.py [-h] [--dataset DATASET] [--hiddenSize HIDDENSIZE]
                [--epoch EPOCH] [--n_sample_all N_SAMPLE_ALL]
